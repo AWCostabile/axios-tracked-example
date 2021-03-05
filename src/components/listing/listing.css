@@ -1,0 +1,23 @@
+.listing {
+  background: #444;
+  color: #ddd;
+  border-radius: 4px;
+  flex: 1 0 auto;
+  padding: 8px;
+  margin: 0 8px 8px;
+}
+
+.listing:hover {
+  background: #888;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
+  color: #fff;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.listing-container {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 8px;
+}
