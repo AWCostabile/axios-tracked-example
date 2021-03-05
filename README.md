@@ -1,6 +1,6 @@
 # axios-tracked-example
 
-Example for demonstrating `axios-tracked` functionality
+Example for demonstrating "[`axios-tracked`](https://github.com/AWCostabile/axios-tracked)" functionality in a React + Typescript app.
 
 ## Install Dependencies
 
